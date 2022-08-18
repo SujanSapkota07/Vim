@@ -7,7 +7,7 @@ return 0;
 }
 	int x, y;
 	cout << "Enter the name of your friends";
-	getlined(cin, 50);
+	getlined(cin, 50);//prompts the user to enter name
 	return 0;
 
 }
